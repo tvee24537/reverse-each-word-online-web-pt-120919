@@ -6,7 +6,5 @@ def reverse_each_word(string)
 #  sentence.each do |reword|
 #    words << reword.reverse
   end
-  return words.join(" ")
-  
-
+#  return words.join(" ")
 end
