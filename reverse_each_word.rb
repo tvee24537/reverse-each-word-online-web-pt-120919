@@ -6,6 +6,6 @@ def reverse_each_word(string)
   end
   return words.join(" ")
   
-  sentence.collect {|reword| reword.reverse}
-    return sentence.join(" ")
+ # sentence.collect {|reword| reword.reverse}
+   # return sentence.join(" ")
 end
